@@ -25,7 +25,7 @@
 Cami here 🙋🏾‍♀️... I'm from Brazil
 
 - ✨ Creating bugs since 2019
-- 💼 Front-end Software Engineer at [Gupy](https://www.gupy.io/)
+- 💼 Full-stack Software Engineer
 - 👩🏾‍🎓 Graduated in Systems Analysis and Development from UNICARIOCA;
 </p>
 </div>
